@@ -101,7 +101,7 @@ const Index = () => {
               АКАДЕМИЯ ЧИСТОТЫ
             </h1>
             <p className="text-xl md:text-2xl mb-8 opacity-90">
-              Профессиональные клининговые услуги от ООО "Профи-ПЖК"
+              Профессиональные клининговые услуги{" "}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
